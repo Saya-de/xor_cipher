@@ -1,4 +1,4 @@
-#XORCipherMethods
+# XORCipherMethods
 
 This is a simple collection of encryption and decryption methods for XOR strings in C++ and C#. XOR string encryption methods are used to hide string contents by encrypting the given string together with a given key.
 In my case, they are often used for temporary strings
