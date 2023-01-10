@@ -1,7 +1,6 @@
 # XORCipherMethods
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <a class="github-button" href="https://github.com/saya-de/XORCipherMethods/archive/HEAD.zip" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_high_contrast;" data-icon="octicon-download" aria-label="Download saya-de/XORCipherMethods on GitHub">Download</a>
 
 This is a simple collection of encryption and decryption methods for XOR strings in C++ and C#. XOR string encryption methods are used to hide string contents by encrypting the given string together with a given key.
