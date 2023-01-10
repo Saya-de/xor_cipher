@@ -9,4 +9,3 @@ in internal cheat processes to make it more difficult for an anti-cheat to read 
 
 This is a very simple and weak encryption method. So if you want to encrypt sensitive data, I wouldn't recommend this method. Consider using AES or similar encryption methods.
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
